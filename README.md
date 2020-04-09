@@ -25,3 +25,5 @@ Example:
 > python3 application.py images/numbers.jpg
 
 This code was developed as while learning from a course on Deep Learning, the idea is inspired by the course instructor's work. Everyone is free to use this repository for their personal and professional use. 
+
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)]
